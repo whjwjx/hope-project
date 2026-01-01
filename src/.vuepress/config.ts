@@ -6,7 +6,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   bundler: viteBundler(),
 
-  base: "/hope-project/",
+  base: "/",
 
   locales: {
     "/": {
